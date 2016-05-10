@@ -1,0 +1,28 @@
+name: Radtab
+favicon: null
+layout_spectrum: 0.1102109719067812
+typography_spectrum: 0.0974204782396555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3706593632232398
+  lightness: 0.8687570167239755
+  saturation: 0.5544131721835583
+  rhythmicContrast: 0.3025504460092634
+purpose: []
