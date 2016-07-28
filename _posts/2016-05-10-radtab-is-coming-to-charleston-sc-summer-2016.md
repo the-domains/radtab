@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Radtab is coming to Charleston SC - Summer 2016
-datePublished: '2016-05-10T19:24:27.231Z'
-dateModified: '2016-05-10T19:24:08.753Z'
+datePublished: '2016-07-28T18:39:04.182Z'
+dateModified: '2016-05-10T19:24:32.011Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-radtab-is-coming-to-charleston-sc-summer-2016.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-radtab-is-coming-to-charleston-sc-summer-2016.md
 url: radtab-is-coming-to-charleston-sc-summer-2016/index.html
 _type: Article
 
